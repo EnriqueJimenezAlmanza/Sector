@@ -257,6 +257,9 @@ header {
         width: 100%;
         height: 100%;
     }
+    .cruiser__info--2 {
+        order: 0;
+    }
 }
 
 
