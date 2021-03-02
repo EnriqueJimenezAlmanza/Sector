@@ -294,3 +294,15 @@ header {
     color: var(--principal);
     font-size: 1.7rem;
 }
+
+@media (max-width: 480px) {
+    .footer {
+        flex-wrap: wrap;
+    }
+    .footer__menu {
+        width: 100%;
+    }
+    .footer__logo {
+        width: 100%;
+    }
+}
