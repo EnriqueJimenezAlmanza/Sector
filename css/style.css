@@ -126,6 +126,7 @@ header {
     .title h1 {
         font-size: 3rem;
         line-height: 2;
+        text-align: center;
     }
     .menu {
         flex-wrap: wrap;
